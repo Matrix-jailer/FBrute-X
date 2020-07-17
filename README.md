@@ -1,3 +1,6 @@
+# TOOL IS DEAD NOT WORKING...  :)
+# SO DONT WASTE TIME 
+
 ## Facebook BruteForce
 FBrute-X 2.5 ( latest )
 
